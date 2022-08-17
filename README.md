@@ -1,5 +1,6 @@
 
 # Automação site BugBank com Cypress
+    https://bugbank.netlify.app/
 
 # Preparando ambiente do projeto
     Comandos -   npm init -y (Cria uma pasta com as depedencias do node)
