@@ -1,0 +1,23 @@
+{
+  "name": "automacao-cypress-bugbank",
+  "version": "1.0.0",
+  "description": "https://bugbank.netlify.app/",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/felipe-barrozo/automacao-cypress-BugBank.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/felipe-barrozo/automacao-cypress-BugBank/issues"
+  },
+  "homepage": "https://github.com/felipe-barrozo/automacao-cypress-BugBank#readme",
+  "dependencies": {
+    "cypress": "^10.7.0"
+  }
+}
